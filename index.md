@@ -8,7 +8,7 @@ output:
 
 This site houses maps that visualize 
 
-### [West](us_short.html)
+### [West](us_limited.html)
 
 
 
