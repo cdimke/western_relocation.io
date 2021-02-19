@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 
-[Link](/us_limited.html) and ![Image](/us_limited.html)
+[Link](./us_limited.html) and ![Image](./us_limited.html)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
